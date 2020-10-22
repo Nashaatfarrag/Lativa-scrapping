@@ -1,0 +1,2 @@
+1 - first make sure scrapy is setuped you can use python venv or setup scrapy on the main python you have
+2 - go to inside this project and run "scrapy crawl maniSpider"
